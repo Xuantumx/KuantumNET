@@ -96,9 +96,8 @@ Projeye katkıda bulunmak isterseniz:
 5. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 6. Bir Pull Request açın
 
-## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu yazılım açık kaynak olarak sunulmuş olup, herhangi bir garanti verilmemektedir. Kullanım ve dağıtım tamamen kullanıcı sorumluluğundadır.
 
 ## İletişim
 
