@@ -102,4 +102,4 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/kullanıcıadı/kuantum-network/issues) kullanabilirsiniz. 
+Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/kullanıcıadı/kuantum-network/issues) kullanabilirsiniz. # KuantumNET Projesi
